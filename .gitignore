@@ -34,3 +34,10 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Specific to MidiModulator:
+*.wav
+*.mp3
+*.mid
+*.xml
+*.mxl
